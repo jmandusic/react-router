@@ -3,19 +3,12 @@
     {
       "id": 1,
       "title": "post1",
-      "author": "autor1",
-      "date": "10/03/2022"
+      "author": "autor1"
     },
     {
       "id": 2,
       "title": "post2",
-      "author": "autor2",
-      "date": "10/03/2022"
-    },
-    {
-      "title": "treca",
-      "author": "valjda",
-      "id": 5
+      "author": "autor2"
     }
   ]
 }
