@@ -1,0 +1,28 @@
+{
+  "name": "react-router",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "repository": "git@github.com:jmandusic/react-router.git",
+  "author": "jmandusic <jere.mandusic2002@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
