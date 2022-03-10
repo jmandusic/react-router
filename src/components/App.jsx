@@ -1,12 +1,14 @@
 import React, { useEffect } from "react";
-import { getPosts } from "../services/data";
+import { BrowserRouter } from "react-router-dom";
+
+import Posts from "./Posts";
 
 const App = () => {
-  useEffect(() => {
-    getPosts().then((res) => console.log(res));
-  }, []);
-
-  return <div>App</div>;
+  return (
+    <BrowserRouter>
+      <Posts />
+    </BrowserRouter>
+  );
 };
 
 export default App;
