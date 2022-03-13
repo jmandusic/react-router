@@ -1,14 +1,14 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "post1",
-      "author": "autor1"
+      "title": "neki",
+      "author": "neko",
+      "id": 4
     },
     {
-      "id": 2,
-      "title": "post2",
-      "author": "autor2"
+      "title": "neki2kmklm",
+      "author": "neki2",
+      "id": 5
     }
   ]
 }
